@@ -1,7 +1,7 @@
 ---
 <p align="center">
   <img width="600" height="200" src="https://user-images.githubusercontent.com/49053928/111937011-2e9b8080-8ac7-11eb-914a-a0d94380d611.gif"><br>
- <b>DokusCore World Edit (v1.0.0)</b> - Custom YMap edits to extend your RedM Map!.
+ <b>DokusCore World Edit (v1.1.0)</b> - Custom YMap edits to extend your RedM Map!.
 </p>
 
 ---
@@ -34,7 +34,6 @@ in the way like a road.
   - [ADDED]: The RDR1 Mexico map expansion
   - [ADDED]: Bridge that crosses from the main land to Mexico
   - [ADDED]: A Market at Valentine that includes job stands.
-  - [REMOVED]: The Oil Jack that was oddly located in the native camp.
 
 ---
 # Discord
